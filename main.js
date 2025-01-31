@@ -1,5 +1,5 @@
 const test = ()=> {
-        console.log(Test My Super Linter Action)
+        console.log("Test My Super Linter Action")
         }
 
 test();
